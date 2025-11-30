@@ -40,7 +40,7 @@
   "license": "Apache-2.0",
   "homepage": "https://github.com/AnyChart/AnyChart-AngularJS-2.x",
   "dependencies": {
-    "@angular/common": "~2.4.0",
+    "@angular/common": "~19.2.16",
     "@angular/compiler": "~2.4.0",
     "@angular/core": "~2.4.0",
     "@angular/forms": "~2.4.0",
